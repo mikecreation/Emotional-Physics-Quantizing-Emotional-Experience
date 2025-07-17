@@ -15,15 +15,18 @@ We introduce and empirically validate a new framework for the physics of emotion
 
 ## Repository Structure
 
-/
-├── emotional-physics.tex # Main LaTeX manuscript
+```text
+emotional-physics-sui/
+├── emotional-physics.tex        # Main LaTeX manuscript
 ├── Images/
-│ ├── flow_throughput.png # Figure 1: Flow vs. SUI rate
-│ ├── roc_curve_sui.png # Figure 2: ROC curve for SUI threshold
-│ └── ... # Any additional figures
-├── README.md
-├── .gitignore
-└── (optionally) bibliography.bib
+│   ├── flow_throughput.png      # Figure 1: Flow vs. SUI rate
+│   ├── roc_curve_sui.png        # Figure 2: ROC curve for SUI threshold
+│   └── (additional figures)     # Any extra images or diagrams
+├── README.md                    # Project overview and instructions
+├── .gitignore                   # Standard LaTeX exclusions
+├── LICENSE                      # License (CC BY-NC 4.0)
+└── bibliography.bib             # (Optional) BibTeX references
+
 
 
 ---
