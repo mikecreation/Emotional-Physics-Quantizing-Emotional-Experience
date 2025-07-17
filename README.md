@@ -9,7 +9,7 @@
 
 ## Abstract
 
-We introduce and empirically validate a new framework for the physics of emotion based on the **Smallest Unit of Intelligence (SUI)**. This model treats every emotion as a quantized event—an irreducible “click” of understanding that collapses symbolic uncertainty into clarity. Using EEG, VR, and pupillometry experiments, we show that insight and emotion can be measured as discrete entropy-resolution events. Our results establish objective thresholds for emotional insight, reveal the optimal “flow” zone for human cognition, and define a mathematical transition from anxiety to awe. The findings open the path to a rigorous informational physics of consciousness, with direct applications for neuroscience, adaptive AI, and the engineering of human experience.
+We introduce and empirically validate a new framework for the physics of emotion based on the **Smallest Unit of Intelligence (SUI)**. This model treats every emotion as a quantized event, an irreducible “click” of understanding that collapses symbolic uncertainty into clarity. Using EEG, VR, and pupillometry experiments, we show that insight and emotion can be measured as discrete entropy-resolution events. Our results establish objective thresholds for emotional insight, reveal the optimal “flow” zone for human cognition, and define a mathematical transition from anxiety to awe. The findings open the path to a rigorous informational physics of consciousness, with direct applications for neuroscience, adaptive AI, and the engineering of human experience.
 
 ---
 
